@@ -1,0 +1,12 @@
+[project]
+name = "lab"
+version = "0.1.0"
+description = "experiments with python libraries"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.27.2",
+    "parsel>=1.9.1",
+    "pillow>=10.4.0",
+    "rich>=13.9.1",
+]
